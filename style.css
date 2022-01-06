@@ -1,0 +1,90 @@
+body{
+    font-family: 'Changa', sans-serif;
+    font-family: 'Handlee', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+    margin-left: 50px; 
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+
+.stay-focused{
+    font-size: 40px;
+    text-align: left;
+    border-image-slice: 1;
+    border-left:5px solid teal;
+    border-radius: 10px; 
+    
+}
+
+.flexible-container{
+    display: flex;
+  
+}
+.half-width{
+    padding: 20px;
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+}
+.half-width p{
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 80%;
+}
+.mission-color{
+    color: teal;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 50px;
+    border: 5px solid teal;
+    border-radius: 10px;
+    background-color: teal;
+    color: white;
+    font-weight: 600;
+}
+.scroll{
+    margin-left: 30px;
+}
+.h1-font{
+    text-align: center;
+    font-size: 50px;
+}
+#mission{
+    border: 5px solid rgb(226, 226, 156);
+    margin-left: 50px;
+    background-color: rgb(226, 226, 156);
+    border-radius: 10px;
+}
+#vision{
+    border: 5px solid rgb(230, 118, 118);
+    border-radius: 10px;
+    background-color: rgb(230, 118, 118);
+   
+
+}
+#goals{
+    border: 5px solid rgb(67, 144, 175);
+    margin-right: 50px;
+    background-color: rgb(67, 144, 175);
+    border-radius: 10px;
+
+}
+h2{
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    padding: 40px;
+    margin: 0;
+}
+footer h3{
+    font-weight: 700;
+}
